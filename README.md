@@ -1,1 +1,1 @@
-# game-engine-foundations-csc591
+# CSC591 Game Engine Foundations - Dr. David Roberts
